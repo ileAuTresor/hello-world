@@ -1,4 +1,6 @@
 # hello-world
 Tutorial project to initiliaze with Git.
 
-This is a change.
+This is a new change.
+
+The second change to test the history of changes.
